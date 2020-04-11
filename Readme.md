@@ -28,7 +28,8 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 **Cevap:** **Yaydan kaynaklı herhangi bir sapma olabilir.Bu yüzden grafik orjinden geçmez.**
 
-![grafik](https://raw.githubusercontent.com/zehranur-onder/9Sinif-2Odev/master/fizik%20grafik.jpg)
+ 
+  ![grafik](https://raw.githubusercontent.com/zehranur-onder/9Sinif-2Odev/master/fizik%20grafik.jpg)
 
 
 # Bölüm 2
@@ -39,7 +40,8 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
 
 **Cevap**: **Eğimi -635,7 N/m olarak buldum.Videoda bulunan değer -640 N/m'dir.**
-![grafik.]()
+    
+  ![grafik.](https://raw.githubusercontent.com/zehranur-onder/9Sinif-2Odev/master/grafik%202.JPG)
 
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
