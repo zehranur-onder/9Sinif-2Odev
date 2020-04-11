@@ -29,7 +29,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 **Cevap:** **Yaydan kaynaklı herhangi bir sapma olabilir.Bu yüzden grafik orjinden geçmez.**
 
 
-![grafik]()
+![]()
 
 
 # Bölüm 2
