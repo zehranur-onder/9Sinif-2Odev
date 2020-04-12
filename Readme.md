@@ -28,7 +28,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 **Cevap:** **Yaydan kaynaklı herhangi bir sapma olabilir.Bu yüzden grafik orjinden geçmez.**
 
-[grafik](https://raw.githubusercontent.com/zehranur-onder/9Sinif-2Odev/master/fizik%20grafik.jpg)
+![grafik](https://raw.githubusercontent.com/zehranur-onder/9Sinif-2Odev/master/fizik%20grafik.jpg)
 
 
 # Bölüm 2
