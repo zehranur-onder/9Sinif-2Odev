@@ -56,5 +56,6 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver] (https://docs.google.com/spreadsheets/d/10e8TGWudx5QkPZ510ky7dz2C_g4QM20fZ7sVbZ3RcsY/edit#gid=0). 
 
 **y=950x buldum.**
-   **Hatalı grafik**(https://docs.google.com/spreadsheets/d/1MlcaKoEoMSR3s-A5BrF1SeRMjPp0FWOwflUqgVX7Wbk/edit#gid=0)
+
+**Hatalı grafik**(https://docs.google.com/spreadsheets/d/1MlcaKoEoMSR3s-A5BrF1SeRMjPp0FWOwflUqgVX7Wbk/edit#gid=0)
  
